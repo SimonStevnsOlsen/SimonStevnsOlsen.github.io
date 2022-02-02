@@ -2,4 +2,27 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
   padding: 0;
+  color: var(--main-white);
+}
+:root {
+  --main-gray: #011c27;
+  --main-red: #ff0022;
+  --main-blue: #41ead4;
+  --main-white: #fdfffc;
+  --main-purple: #b91372;
+}
+body {
+  background-color: var(--main-gray);
+}
+#name {
+  font-size: 3em;
+}
+h1,
+h2 {
+  padding-left: 2em;
+  padding-top: 1em;
+}
+p {
+  padding-top: 1em;
+  padding-left: 1em;
 }
