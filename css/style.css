@@ -15,14 +15,13 @@ body {
   background-color: var(--main-gray);
 }
 #name {
-  font-size: 3em;
+  font-size: 3rem;
 }
 h1,
 h2 {
-  padding-left: 2em;
-  padding-top: 1em;
+  padding: 2rem;
 }
 p {
-  padding-top: 1em;
-  padding-left: 1em;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
