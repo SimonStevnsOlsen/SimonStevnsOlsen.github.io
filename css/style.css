@@ -13,35 +13,46 @@
 }
 body {
   background-color: var(--main-gray);
+  width: 100%;
 }
 
 h1 {
-  padding: 4rem;
-  font-size: 3rem;
-  background-color: var(--main-blue);
-  color: var(--main-gray);
+  font-size: 6rem;
+  color: var(--main-blue);
   margin: 3rem;
   border-radius: 2rem;
+  text-align: center;
 }
 
 h2 {
-  padding: 3rem 0 0 0;
-  font-size: 2rem;
+  font-size: 4rem;
+  margin: 4rem;
   text-align: center;
 }
 p {
-  padding: 4rem;
+  margin: 3rem;
   text-align: center;
 }
 
+#about {
+  display: grid;
+  place-items: center;
+}
 #about p {
   text-align: left;
 }
 
+.blogs {
+  display: grid;
+  gap: 3rem;
+  margin: 3rem;
+  place-items: center;
+}
+
 .blog {
   border: 8px solid var(--main-blue);
-  margin: 3rem;
   border-radius: 2rem;
+  max-width: 800px;
 }
 
 .blog * {
