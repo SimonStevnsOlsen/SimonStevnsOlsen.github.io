@@ -17,8 +17,8 @@ Den studerende kan
 
 # Selvvalgte emner
 Som anbefalet vil jeg arbejde med 2 ugers sprints. I mine sprints opsætter jeg læringsmål, i slutningen af hvert sprint vil jeg gennemgå om jeg opfyldt mit læringsmål. Til hvert af emnerne opsætter jeg også læringsmål som skal række over hele semesteret.
-## Machine Learning [[Machine Learning|->]]
-## Frontend [[Frontend|->]]
+## Machine Learning [[Machine Learning Læringsmål|->]]
+## Frontend [[Frontend Læringsmål|->]]
 ---
 
 # Værktøjer

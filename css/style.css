@@ -14,14 +14,36 @@
 body {
   background-color: var(--main-gray);
 }
-#name {
+
+h1 {
+  padding: 4rem;
   font-size: 3rem;
+  background-color: var(--main-blue);
+  color: var(--main-gray);
+  margin: 3rem;
+  border-radius: 2rem;
 }
-h1,
+
 h2 {
-  padding: 2rem;
+  padding: 3rem 0 0 0;
+  font-size: 2rem;
+  text-align: center;
 }
 p {
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding: 4rem;
+  text-align: center;
+}
+
+#about p {
+  text-align: left;
+}
+
+.blog {
+  border: 8px solid var(--main-blue);
+  margin: 3rem;
+  border-radius: 2rem;
+}
+
+.blog * {
+  color: var(--main-white);
 }
