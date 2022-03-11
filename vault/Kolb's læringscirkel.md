@@ -1,1 +1,0 @@
-# Kolb's Læringscirkel
